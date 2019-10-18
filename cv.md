@@ -1,8 +1,8 @@
 # Character 
 
-***Gregory Kravchenko***
+<img src="r2-d2.jpg" width="10%">
 
-![]( r2-d2.jpg)
+***Gregory Kravchenko***
 
 ## Contact Info
 
