@@ -2,6 +2,8 @@
 
 ***Gregory Kravchenko***
 
+![]( r2-d2.jpg)
+
 ## Contact Info
 
   * Phone number: *+375 25 534-98-55*
